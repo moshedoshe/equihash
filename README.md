@@ -1,4 +1,5 @@
 # equihash
+Test
 Equihash proof-of-work solvers
 
 Build with "make all"
